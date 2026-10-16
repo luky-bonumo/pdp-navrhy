@@ -1,0 +1,1 @@
+import{r as s,j as t}from"./react-vendor-2sQxgj8T.js";import{Q as e}from"./QuantityInput-Hol6pqm2.js";function i({}){const[r,n]=s.useState(0);return t.jsx("div",{children:t.jsx(e,{quantity:r,onChanged:n})})}export{i as default};

@@ -1,0 +1,1 @@
+import{j as s}from"./react-vendor-2sQxgj8T.js";function a({onClick:t,ariaLabel:e}){return s.jsx("div",{role:"button",tabIndex:0,"aria-label":e||"Close",className:"close-button",onClick:t,children:s.jsx("span",{className:"icon-times"})})}export{a as C};

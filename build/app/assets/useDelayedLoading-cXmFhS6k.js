@@ -1,0 +1,1 @@
+import{r as t}from"./react-vendor-2sQxgj8T.js";const r={loading:!1,rawLoading:!1},u=t.createContext(r),c=()=>t.useContext(u);function f(o,a=800){const[n,s]=t.useState(!1);return t.useEffect(()=>{let e;return o?e=setTimeout(()=>s(!0),a):(e&&clearTimeout(e),s(!1)),()=>{e&&clearTimeout(e)}},[o,a]),n}export{u as L,f as a,c as u};

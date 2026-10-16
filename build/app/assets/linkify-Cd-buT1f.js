@@ -1,0 +1,1 @@
+import{j as c}from"./react-vendor-2sQxgj8T.js";function h(n){const r=[],l=/https?:\/\/[^\s<>"']+/g;let e=0;for(const o of n.matchAll(l)){const s=o.index??0,t=o[0].replace(/[.,;:!?)]+$/,"");s>e&&r.push(n.slice(e,s)),r.push(c.jsx("a",{href:t,target:"_blank",rel:"noopener noreferrer",children:t},s)),e=s+t.length}return e<n.length&&r.push(n.slice(e)),r}export{h as linkify};

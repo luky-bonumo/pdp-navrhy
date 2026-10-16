@@ -1,0 +1,1 @@
+import{j as a}from"./react-vendor-2sQxgj8T.js";function n({text:o}){const t=()=>{navigator.clipboard.writeText(o)};return a.jsx("span",{className:"icon-copy util-copy",onClick:t})}export{n as default};

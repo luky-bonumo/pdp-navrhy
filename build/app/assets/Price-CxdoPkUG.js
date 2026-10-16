@@ -1,0 +1,1 @@
+import{j as r}from"./react-vendor-2sQxgj8T.js";import{t as m,bS as p}from"./app-AdLESoA1.js";import{c as f}from"./index-DXPhuUAE.js";function u({price:o,styled:s=!1,className:a="price",freeClassName:n="free"}){const{value:c,formatted:i}=o,t=c===0,e=t?m(p):i;return r.jsxs(r.Fragment,{children:[s&&r.jsx("span",{className:f(a,{[n]:t}),children:e}),!s&&e]})}export{u as P};

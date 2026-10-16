@@ -1,0 +1,1 @@
+import{r as s}from"./react-vendor-2sQxgj8T.js";const o=(n,t)=>{s.useEffect(()=>{const e=r=>{var c;(c=n.current)!=null&&c.contains(r.target)||t(r)};return document.addEventListener("click",e),()=>{document.removeEventListener("click",e)}},[t])};export{o as u};

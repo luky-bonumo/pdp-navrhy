@@ -1,0 +1,1 @@
+import{j as s}from"./react-vendor-2sQxgj8T.js";import{c as a}from"./index-DXPhuUAE.js";function x({minHeight:t=100,minWidth:i=100,spacy:o=!1}){return o&&(t=240,i=240),s.jsx("div",{className:a("loading"),style:{width:"100%",height:"auto",minHeight:`${t}px`,minWidth:`${i}px`}})}export{x as L};
